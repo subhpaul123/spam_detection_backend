@@ -1,0 +1,67 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+
+# Django settings
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-*
+
+# Static files (if collected)
+static/
+
+# Media files (if used)
+media/
+
+# Uploaded files (if used)
+uploads/
+
+# IDE-specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+wheels
+
+# Coverage data
+.coverage
+coverage.xml
+
+# PyInstaller/py2app
+build/
+dist/
+*.spec
+
+# Celery flower database (if used)
+flowerdb.sqlite
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Docker related
+docker-compose.override.yml
+.dockerenv
+
+# Other temporary files
+*.tmp
+*.bak
+*.orig
