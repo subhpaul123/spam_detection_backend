@@ -1,4 +1,4 @@
-# Phonebook Spam Detection API - README
+# Phonebook Spam Detection API
 
 This document provides instructions on how to run the Phonebook Spam Detection API and a brief overview of the project.
 
